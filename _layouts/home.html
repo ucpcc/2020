@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body class="{{ page.id }}">
+    
+    {%- include header.html -%}
+
+    <div class="contents">
+      <div class="skewed_box" style="z-index: 2; position: relative;">
+          <div class="main_caption">
+              2020 여름 대회<br>
+              <small>전국 대학생 프로그래밍 대회 동아리 연합</small>
+          </div>
+      </div>
+    </div>
+    <div class="cover_image image_container skewed_box" style="z-index: 2;">
+        <div class="unskew" style="height: 80vw; max-height: 720px;">
+          <img id="main-pic" alt="UCPC 2019">
+          <div style="background: #ff9900; position: absolute; left: 0; top: 0; width: 170%; height: 170%;"></div>
+        </div>
+    </div>
+    <script type="text/javascript">
+      function lpad(num, pad_str, len) {
+        var str = num.toString();
+        while (str.length < len) {
+          str = pad_str + str;
+        }
+        return str;
+      }
+      window.onload = function () {
+        var picture_num = Math.floor(Math.random() * 13);
+        var picture_name = 'main-pic-' + lpad(picture_num, '0', 2) + '.jpg';
+        var path = '{{ "/assets/" | relative_url }}' + picture_name;
+        document.getElementById('main-pic').src = path;
+      };
+    </script>
+
+    <div class="contents">
+      <p class="main_description" style="z-index: 3;">
+          <span>
+          UCPC는 전국 대학생 프로그래밍 대회 동아리 연합<sup>전대프연</sup>에서 진행하는 여름 대회입니다. 2011년 제1회 UCPC를 시작으로 올해 9번째 대회가 열립니다!<br>
+
+          매년 여름에 진행하는 UCPC는 ICPC를 준비하는 팀들에게 훌륭한 연습기회가 되고 있고,
+          프로그래밍 대회라는 하나의 공통적인 목표와 학구열을 가진 학생들에게 좋은 교류와 경쟁의 장이 되고 있습니다. 많이 기대해주세요!
+          </span>
+      </p>
+    </div>
+    
+    <main class="contents" aria-label="Content">
+      {{ content }}
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
