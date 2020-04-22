@@ -29,3 +29,15 @@ title: UCPC 2020
 스폰서는 언제나 환영입니다! 스폰서 관련 문의 사항은 <a href="#" class="mail-address" data-name="sponsor" data-domain="ucpc" data-tld="me" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>으로 부탁드립니다.
 
 (위 메일 주소는 클립보드에 복사가 불가능합니다!)
+
+---
+
+## Sponsor
+
+### 기업
+
+TBD
+
+### 개인
+
+* [**개앞맵시**(이복연)](https://www.facebook.com/pg/dev.loadmap/)
