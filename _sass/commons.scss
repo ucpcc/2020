@@ -383,6 +383,19 @@ p.main_description span sup {
 .trigger a.page-link {
     display: block;
     text-decoration: none;
+
+    &:after {
+        height: 4px;
+        margin-top: 2px;
+        content: "";
+        display: block;
+        width: 0;
+    }
+
+    &:hover::after {
+        transition: width 0.3s;
+        width: 100%;
+    }
 }
 
 .footer {
@@ -404,6 +417,12 @@ p.main_description span sup {
 /*
     Media Query
 */
+@media (max-width: 959px) {
+.trigger a.page-link:after {
+    background-color: $text-color-primary;
+}
+}
+
 @media (min-width: 960px) {
 
 html, body {
@@ -444,5 +463,8 @@ html, body {
     background: none;
     color: $white;
     font-size: 18px;
+}
+.trigger a.page-link:after {
+  background-color: $white;
 }
 }
