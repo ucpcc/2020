@@ -22,5 +22,8 @@ title: UCPC 2020
 
 ## 문의
 
-참가, 스폰서 관련 문의 사항은 <a href="#" class="mail-address" data-name="ucpc20" data-domain="shiftpsh" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>으로 보내 주세요.
+참가 관련 문의 사항은 <a href="#" class="mail-address" data-name="ucpc20" data-domain="shiftpsh" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>으로 부탁드립니다.
+
+스폰서는 언제나 환영입니다! 스폰서 관련 문의 사항은 <a href="#" class="mail-address" data-name="ucpc.kr" data-domain="gmail" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>으로 부탁드립니다.
+
 (위 메일 주소는 클립보드에 복사가 불가능합니다!)
