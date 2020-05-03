@@ -22,7 +22,7 @@ UCPC 2020에 사용될 문제를 모집하고 있습니다! 여러분들의 창�
 
 ## 프로세스
 
-1. 제공 방식에 따라 tasks@ucpc.me로 아래의 사항들을 포함한 문제 자료를 전송해 주세요.
+1. 제공 방식에 따라 <a href="#" class="mail-address" data-name="tasks" data-domain="ucpc" data-tld="me" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>로 아래의 사항들을 포함한 문제 자료를 전송해 주세요.
     * 출제자 또는 출제진의 실명과 소속
     * 문제 디스크립션과 해설 -- 초안이어도 괜찮습니다.
         * (가능할 경우에) 문제를 해결하는 데 필요한 최소한의 요소들만 포함하도록 요약된 디스크립션
