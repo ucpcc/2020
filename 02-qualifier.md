@@ -1,18 +1,18 @@
 ---
 layout: page
-title: 온라인 예선
+title: 예선
 permalink: /qualifier/
 ---
 
 ## 일정
 
 * 예비소집 --- **TBD**
-* 온라인 예선 대회 --- **2020년 7월 25일** (토요일)
+* 예선 대회 --- **2020년 7월 25일** (토요일)
 * Open Contest --- **TBD**
 
 ## 대회 진행
 
-온라인 예선은 [ucpc.acmicpc.net](https://ucpc.acmicpc.net/info)에서 온라인으로 진행됩니다.
+예선은 [ucpc.acmicpc.net](https://ucpc.acmicpc.net/info)에서 온라인으로 진행됩니다.
 
  * 참가팀에게 대회 며칠 전에 대회용 계정 정보를 나눠드릴 예정입니다. 위 사이트에서 이 계정으로 로그인해 대회를 치르면 됩니다.
  * 3명이 반드시 한 대의 컴퓨터를 사용할 필요는 없습니다. 자유롭게 진행해주세요.
