@@ -330,6 +330,17 @@ p.main_description span sup {
     overflow: hidden;
 }
 
+a.sp_logo {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    line-height: 100px;
+    img {
+        vertical-align: middle;
+        margin: 0 auto;
+    }
+}
+
 /*
     Navigation
 */
