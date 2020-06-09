@@ -113,7 +113,7 @@ p.main_description span sup { background-color: #f2f3f7; padding: 2px 0; }
 
 .cover_image { position: relative; margin-top: 12vw; overflow: hidden; }
 
-a.sp_logo { display: inline-block; width: 200px; height: 100px; line-height: 100px; }
+a.sp_logo { display: inline-block; width: 200px; height: 100px; line-height: 100px; margin-right: 16px; margin-bottom: 16px; }
 a.sp_logo img { vertical-align: middle; margin: 0 auto; }
 
 /* Navigation
