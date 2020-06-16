@@ -76,7 +76,7 @@ UCPC는 전국 대학생 프로그래밍 대회 준비 동아리 연합<sup>전�
 과거에 열렸던 UCPC의 정보와 문제들을 살펴보고 다가올 대회를 준비해 보세요!
 
 |대회|문제|풀이|결과|
-|-|-|-|-|-|
+|-|-|-|-|
 |2019 본선| [문제](https://www.acmicpc.net/category/detail/2054)  | [풀이](http://2019.ucpc.me/assets/UCPC2019_sol_stat.pdf) | [대회 결과](https://ucpc.acmicpc.net/contest/spotboard/450) |
 |2019 예선| [문제](https://www.acmicpc.net/category/detail/2053)|  [풀이](https://drive.google.com/file/d/1lEkJ4sW5s2bD8SXHh2nYVp8MgXf2nkNg/view) | [대회 결과](https://www.acmicpc.net/contest/spotboard/449)|
 |2018 본선| [문제](https://www.acmicpc.net/category/detail/1893)  | [풀이](https://docs.google.com/presentation/d/1iL3syHDaOAgvip0-Dd_bS3Zl-07xD5LqbhYNeH30AFA/edit#slide=id.p) | [대회 결과](https://ucpc.acmicpc.net/contest/spotboard/314) |
