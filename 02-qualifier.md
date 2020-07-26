@@ -7,12 +7,14 @@ permalink: /qualifier/
 ## 일정
 
 * 예비소집 --- **2020년 7월 24일** (금요일)
-* 예선 대회 --- **2020년 7월 25일** (토요일) 14:00 -- 17:00
-* Open Contest --- **2020년 7월 25일** (토요일) 18:00 -- 21:00
+* 예선 대회 --- ~~2020년 7월 25일 (토요일) 14:00 -- 17:00~~ **2020년 7월 25일** (토요일) 14:10 -- **2020년 7월 26일** (일요일) 12:00
+* Open Contest --- ~~2020년 7월 25일 (토요일) 18:00 -- 21:00~~ **2020년 7월 26일** (일요일) 12:10 -- 21:10
+
+[예선대회 중 서버 사고](https://www.acmicpc.net/blog/view/94)로 인해 대회 시간이 변경되었습니다.
 
 ## 대회 자료
 
-* 문제 ([PDF](/assets/ucpc20-prelim-problems.pdf))
+* 문제 ([Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2270), [PDF](/assets/ucpc20-prelim-problems.pdf))
 * 해설 ([PDF](/assets/ucpc20-prelim-solutions.pdf))
 
 ## 대회 진행
