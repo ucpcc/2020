@@ -10,6 +10,11 @@ permalink: /qualifier/
 * 예선 대회 --- **2020년 7월 25일** (토요일) 14:00 -- 17:00
 * Open Contest --- **2020년 7월 25일** (토요일) 18:00 -- 21:00
 
+## 대회 자료
+
+* 문제 ([PDF](/assets/ucpc20-prelim-problems.pdf))
+* 해설 ([PDF](/assets/ucpc20-prelim-solutions.pdf))
+
 ## 대회 진행
 
 예선은 [ucpc.acmicpc.net](https://ucpc.acmicpc.net/info)에서 온라인으로 진행됩니다.
