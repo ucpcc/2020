@@ -12,10 +12,14 @@ permalink: /qualifier/
 
 [예선대회 중 서버 사고](https://www.acmicpc.net/blog/view/94)로 인해 대회 시간이 변경되었습니다.
 
+----
+
 ## 대회 자료
 
 * 문제 ([Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2270), [PDF](/assets/ucpc20-prelim-problems.pdf))
 * 해설 ([PDF](/assets/ucpc20-prelim-solutions.pdf))
+
+----
 
 ## 대회 진행
 

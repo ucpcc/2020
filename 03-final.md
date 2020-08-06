@@ -12,6 +12,15 @@ permalink: /final/
 
 **2020년 8월 1일** (토요일) 11:00 -- 16:00
 
+----
+
+## 대회 자료
+
+* 문제 ([Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2272), [PDF](/assets/ucpc20-finals-problems.pdf))
+* 해설 ([PDF](/assets/ucpc20-finals-solutions.pdf))
+
+----
+
 ## 대회 진행
 
 본선도 [ucpc.acmicpc.net](https://ucpc.acmicpc.net/info)에서 온라인으로 진행됩니다.
