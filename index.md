@@ -19,8 +19,8 @@ title: UCPC 2020
 
 ## 주요 공지
 
-* **8월 1일** --- [본선대회 문제 및 풀이](/final)가 공개되었습니다.
-* **7월 26일** --- [예선대회 문제 및 풀이](/qualifier)가 공개되었습니다.
+* **8월 1일** --- [본선대회 문제 및 풀이](/final)가 공개되었습니다. [본선 스코어보드](https://www.acmicpc.net/contest/spotboard/524) / [본선 Open 스코어보드](https://www.acmicpc.net/contest/board/525)
+* **7월 26일** --- [예선대회 문제 및 풀이](/qualifier)가 공개되었습니다. [예선 스코어보드](https://www.acmicpc.net/contest/spotboard/521) / [예선 Open 스코어보드](https://www.acmicpc.net/contest/board/522)
 
 ## 이전 공지
 
